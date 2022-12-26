@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21272172&show_icons=true&locale=en" alt="it21272172" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21272172&" alt="it21272172" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaCDS" alt="VishwaCDS" /></p>
