@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21272172&label=Profile%20views&color=0e75b6&style=flat" alt="it21272172" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@w_v_c_d_s" target="blank"><img src="https://img.shields.io/twitter/follow/@w_v_c_d_s?logo=twitter&style=for-the-badge" alt="@w_v_c_d_s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@w_v_c_d_s" target="blank"><img src="https://img.shields.io/twitter/follow/w_v_c_d_s?logo=twitter&style=for-the-badge" alt="@w_v_c_d_s" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS, REACT**
 
