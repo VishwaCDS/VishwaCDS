@@ -47,30 +47,16 @@
 <h3 align="left">Certifications & Badges:</h3>
 
 #### GSSOC(24) Badges
+### GSSOC(24) Badges 🍂
+
 <p align="left">
-  <img src="URL_TO_POSTMAN_BADGE" width="80" alt="Postman Student Expert" />
-  <img src="URL_TO_COMPASS_BADGE" width="80" alt="GSSOC Compass" />
-  <img src="URL_TO_SEARCH_BADGE" width="80" alt="GSSOC Search" />
-  <img src="URL_TO_HIKING_BADGE" width="80" alt="GSSOC Hiking" />
-  <img src="URL_TO_MOUNTAIN_BADGE" width="80" alt="GSSOC Mountain" />
-  <img src="URL_TO_TROPHY_BADGE" width="80" alt="GSSOC Trophy" />
-  <img src="URL_TO_LIGHTBULB_BADGE" width="80" alt="GSSOC Lightbulb" />
-  <img src="URL_TO_CASTLE_BADGE" width="80" alt="GSSOC Castle" />
-  <br>
-  <img src="URL_TO_DRAGON_BADGE" width="80" alt="GSSOC Dragon" />
-  <img src="URL_TO_CODE_LUMINARY" width="90" alt="Code Luminary" />
-  <img src="URL_TO_GIT_EXPLORER" width="90" alt="Git Explorer" />
-  <img src="URL_TO_PULL_EXPERT" width="90" alt="Pull Expert" />
-</p>
+  <img src="YOUR_IMAGE_LINK_HERE" width="80" alt="Postman Student Expert" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="80" alt="GSSOC Compass" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="80" alt="GSSOC Search" />
+  </p>
 
-#### LeetCode Badges
+### LeetCode Badges
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME_HERE/" target="_blank">
-    <img src="URL_TO_50_DAYS_BADGE" width="80" alt="50 Days Badge" />
-    <img src="URL_TO_100_DAYS_BADGE" width="90" alt="100 Days Badge" />
-  </a>
+  <img src="YOUR_IMAGE_LINK_HERE" width="80" alt="50 Days Badge" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="80" alt="100 Days Badge" />
 </p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
